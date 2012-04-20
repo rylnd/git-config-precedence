@@ -80,3 +80,5 @@ git commit -am "T15: local.user.name, GIT_AUTHOR_NAME, and GIT_AUTHOR_EMAIL"
 sle
 echo "test16" > test
 git commit -am "T16: local.user.name, GIT_AUTHOR_NAME, local.user.email, and GIT_AUTHOR_EMAIL"
+
+unalias un ue sn se uln ule sln sle uall
