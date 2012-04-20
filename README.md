@@ -41,5 +41,11 @@ I've done a series of commits, one for each of the 16 permutations of the variab
 
 Results and analysis to follow.
 
+# Recreation
+To run a similar set of commits, simply source `.bash_history` in a git repository.
+
+```bash
+$ . .bash_history
+```
 
 Copyright (c) 2010 Ryland Herrick, released under the MIT license
